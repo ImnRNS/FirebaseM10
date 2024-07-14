@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "477794027464",
+    "project_id": "crudiman123",
+    "storage_bucket": "crudiman123.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477794027464:android:33e9e4f118645615e862fd",
+        "android_client_info": {
+          "package_name": "com.example.firebasem10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeRc9N7_mJqYL_tuDqBPGB2vyFnjjgWA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

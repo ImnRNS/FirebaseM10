@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "62228702009",
+    "firebase_url": "https://crud-imran1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "crud-imran1",
+    "storage_bucket": "crud-imran1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62228702009:android:5dc4420cc03e3923d4bee8",
+        "android_client_info": {
+          "package_name": "com.example.crudimran"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLNX1uvSUY2FE2Cjm8R94agUvqBI86eh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62228702009:android:2af7ed558dfaadffd4bee8",
+        "android_client_info": {
+          "package_name": "com.example.firebasem10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLNX1uvSUY2FE2Cjm8R94agUvqBI86eh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

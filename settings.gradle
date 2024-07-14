@@ -1,0 +1,17 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.PREFER_SETTINGS) // You can change to FAIL_ON_PROJECT_REPOS if needed
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "FirebaseM10"
+include ':app'
